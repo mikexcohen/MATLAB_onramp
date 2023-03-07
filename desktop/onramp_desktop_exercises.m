@@ -10,7 +10,7 @@
 %% Exercise 1
 
 % Generate a sequence of odd numbers.
-% For each element, and add 5 and divide by 2.
+% For each element, add 5 and divide by 2.
 % Repeat for a sequence of even numbers.
 
 
